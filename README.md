@@ -7,14 +7,14 @@
 I build production web apps — SaaS tools, CRM/ERP dashboards, portals and platforms that real users open every day.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sachintakoria.in-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sachintakoria.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachintakoria/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachintakoria2204@gmail.com)
 
 </div>
 
 ---
 
-## `whoami`
+## `Who Am I`
 
 ```ts
 const sachin = {
@@ -129,7 +129,7 @@ Built and maintained 5+ full-stack apps (SaaS, CRM/ERP, portals), designed and o
 
 I'm open to full-time roles as a **MERN Stack Developer**, **Full Stack Developer (React + Node)**, **SaaS Product Developer**, or **CRM/ERP Web Developer**.
 
-If you have something worth building, reach me at **[sachintakoria2204@gmail.com](mailto:sachintakoria2204@gmail.com)** or via [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME).
+If you have something worth building, reach me at **[sachintakoria2204@gmail.com](mailto:sachintakoria2204@gmail.com)** or via [LinkedIn](https://www.linkedin.com/in/sachintakoria/).
 
 <div align="center">
 
